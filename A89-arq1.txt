@@ -1,0 +1,4 @@
+Entendo arquivos
+Abrindo e lendo arquivos com Python
+Salvando e atulizando arquivos com Python
+Excluindo arquivos com Python
